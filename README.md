@@ -21,3 +21,5 @@ https://devdocs.magento.com/guides/v2.3/install-gde/install-flow-diagram.html
 magneto installation
 
 https://www.youtube.com/watch?v=gqhaumVfSUI
+
+#  *In any case you were not able to run the code, I will attach a video recording of the result
