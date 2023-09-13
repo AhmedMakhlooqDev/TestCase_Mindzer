@@ -22,4 +22,8 @@ magneto installation
 
 https://www.youtube.com/watch?v=gqhaumVfSUI
 
+Magento Installation guide with common issue that you may face
+
+https://magentip.com/install-magento-2-on-localhost-xampp-elasticsearch/#Step-1-Install-Xampp-and-Compose
+
 #  *In any case you were not able to run the code, I will attach a video recording of the result
