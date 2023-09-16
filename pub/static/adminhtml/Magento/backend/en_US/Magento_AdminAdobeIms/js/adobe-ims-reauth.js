@@ -1,0 +1,1 @@
+/var/www/magento/vendor/magento/module-admin-adobe-ims/view/adminhtml/web/js/adobe-ims-reauth.js
