@@ -1,0 +1,13 @@
+enable nginx:
+sudo systemctl enable --now nginx
+
+enable elasticsearch:
+sudo systemctl daemon-reload
+sudo systemctl enable elasticsearch.service
+sudo systemctl start elasticsearch.service
+
+domain name for admin:
+http://localhost/admin_1260yh
+
+website domain:
+http://localhost/
