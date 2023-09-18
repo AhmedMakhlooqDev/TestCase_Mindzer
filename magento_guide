@@ -1,13 +1,22 @@
-enable nginx:
+ENABLE NGINX:
 sudo systemctl enable --now nginx
 
-enable elasticsearch:
+
+ENABLE ELASTICSEARCH:
 sudo systemctl daemon-reload
 sudo systemctl enable elasticsearch.service
 sudo systemctl start elasticsearch.service
 
+
 domain name for admin:
 http://localhost/admin_1260yh
 
-website domain:
+
+WEBSITE DOMAIN:
 http://localhost/
+
+
+IN CASE OF RANDOM TROUBLES:
+sudo bin/magento setup:static-content:deploy -f
+
+
