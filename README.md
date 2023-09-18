@@ -23,6 +23,8 @@ magneto installation
 
 https://www.youtube.com/watch?v=gqhaumVfSUI
 
+most useful resource: https://linux.how2shout.com/steps-to-install-magento-2-on-ubuntu-22-04-linux/
+
 Magento Installation guide with common issue that you may face
 
 https://magentip.com/install-magento-2-on-localhost-xampp-elasticsearch/#Step-1-Install-Xampp-and-Compose
