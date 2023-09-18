@@ -32,4 +32,9 @@ https://magentip.com/install-magento-2-on-localhost-xampp-elasticsearch/#Step-1-
 Go to Content > Configuration > Choose your theme > Footer
 ![Screenshot 2023-09-16 192630](https://github.com/AhmedMakhlooqDev/TestCase_Mindzer/assets/76881779/a1924768-b4a6-4aca-9190-e854348d50f6)
 
+# LinkedIn Profile:
+Go to Content > Configuration > HTML head > Insert your code in the text field 
+NOTES: I did not know how to implement it with the links in the grey bar.
+
+
 #  *In any case you were not able to run the code, I will attach a video recording of the result
