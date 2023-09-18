@@ -1,4 +1,5 @@
-# TestCase_Mindzer
+# TestCase_Mindzer:
+#  *In any case you were not able to run the code, I will attach a video recording of the result
 
 ## References used:
 
@@ -47,6 +48,5 @@ https://www.cloudways.com/blog/magento-2-modal-widget/
 I had to do some bug fixing in their code as it had lots of typos. Please revise commits for more details.
 
 ## Final result: 
+![image](https://github.com/AhmedMakhlooqDev/TestCase_Mindzer/assets/76881779/c337e6a5-3d28-4b86-b150-9948ded89892)
 
-
-#  *In any case you were not able to run the code, I will attach a video recording of the result
