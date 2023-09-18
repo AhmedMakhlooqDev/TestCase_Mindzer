@@ -26,4 +26,10 @@ Magento Installation guide with common issue that you may face
 
 https://magentip.com/install-magento-2-on-localhost-xampp-elasticsearch/#Step-1-Install-Xampp-and-Compose
 
+##  Features:
+
+# Copyright override:
+Go to Content > Configuration > Choose your theme > Footer
+![Screenshot 2023-09-16 192630](https://github.com/AhmedMakhlooqDev/TestCase_Mindzer/assets/76881779/a1924768-b4a6-4aca-9190-e854348d50f6)
+
 #  *In any case you were not able to run the code, I will attach a video recording of the result
