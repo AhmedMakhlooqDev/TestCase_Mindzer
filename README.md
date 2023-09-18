@@ -37,5 +37,7 @@ Go to Content > Configuration > HTML head > Insert your code in the text field
 
 NOTES: I did not know how to implement it with the links in the grey bar.
 
+![image](https://github.com/AhmedMakhlooqDev/TestCase_Mindzer/assets/76881779/f10888c8-a713-4aa3-ad7e-62581b384d2b)
+
 
 #  *In any case you were not able to run the code, I will attach a video recording of the result
