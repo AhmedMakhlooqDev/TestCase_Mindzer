@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f8632069e8f5b4116a4a1b1a7bbf828f",
+    "content-hash": "80932d880d3f0ee394c534d98405b035",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -19411,6 +19411,33 @@
                 }
             ],
             "time": "2023-07-09T15:24:48+00:00"
+        },
+        {
+            "name": "poptin/module-magento2",
+            "version": "1.1.5",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/poptin/module-magento2/poptin-module-magento2-1.1.5.0.zip",
+                "shasum": "cf7c59ec26742a8dd487fafd85ec5eac8f288d5e"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "psr-4": {
+                    "Poptin\\Magento2\\": ""
+                },
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Poptin",
+                    "email": "contact@poptin.com"
+                }
+            ]
         },
         {
             "name": "psr/cache",

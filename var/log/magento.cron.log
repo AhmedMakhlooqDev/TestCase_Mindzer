@@ -479,3 +479,17 @@ In GetParameterClassTrait.php line 34:
 
 cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
 
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable
+cache_dir "/var/www/magento/var/cache/" is not writable

@@ -23241,6 +23241,36 @@
             "install-path": "../phpunit/phpunit"
         },
         {
+            "name": "poptin/module-magento2",
+            "version": "1.1.5",
+            "version_normalized": "1.1.5.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/poptin/module-magento2/poptin-module-magento2-1.1.5.0.zip",
+                "shasum": "cf7c59ec26742a8dd487fafd85ec5eac8f288d5e"
+            },
+            "type": "magento2-module",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Poptin\\Magento2\\": ""
+                },
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Poptin",
+                    "email": "contact@poptin.com"
+                }
+            ],
+            "install-path": "../poptin/module-magento2"
+        },
+        {
             "name": "psr/cache",
             "version": "3.0.0",
             "version_normalized": "3.0.0.0",

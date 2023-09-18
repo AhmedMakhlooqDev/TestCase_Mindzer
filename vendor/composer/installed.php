@@ -4585,6 +4585,15 @@
             'aliases' => array(),
             'dev_requirement' => true,
         ),
+        'poptin/module-magento2' => array(
+            'pretty_version' => '1.1.5',
+            'version' => '1.1.5.0',
+            'reference' => NULL,
+            'type' => 'magento2-module',
+            'install_path' => __DIR__ . '/../poptin/module-magento2',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'psr/cache' => array(
             'pretty_version' => '3.0.0',
             'version' => '3.0.0.0',

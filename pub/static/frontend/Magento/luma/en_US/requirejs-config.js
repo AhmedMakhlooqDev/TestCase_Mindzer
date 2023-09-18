@@ -1035,6 +1035,16 @@ var config = {
 require.config(config);
 })();
 (function() {
+var config = {
+    map: {
+        '*': {
+            'example-modal': 'Cloudways_M2Modal/js/example-modal'
+        }
+    }
+};
+require.config(config);
+})();
+(function() {
 /**
  * Config to pull in all the relevant Braintree JS SDKs
  * @type {{paths: {braintreePayPalInContextCheckout: string, braintreePayPalCheckout: string, braintreeVenmo: string, braintreeHostedFields: string, braintreeDataCollector: string, braintreeThreeDSecure: string, braintreeGooglePay: string, braintreeApplePay: string, braintreeAch: string, braintreeLpm: string, googlePayLibrary: string}, map: {"*": {braintree: string}}}}

@@ -512,6 +512,7 @@ class ComposerStaticInit01b32b7fe2f89e90e3aca27be4f45154
         'f1c1523a4c5d520b50bffc4a75ea5a5c' => __DIR__ . '/..' . '/magento/module-tax-sample-data/registration.php',
         'f3d4617c4b29f1082289d89745685dad' => __DIR__ . '/..' . '/magento/module-widget-sample-data/registration.php',
         '759d958743dba8d926c9111b82afe3e9' => __DIR__ . '/..' . '/magento/module-wishlist-sample-data/registration.php',
+        '459f68f965bb12a2e8c701b5f9fc03e1' => __DIR__ . '/..' . '/poptin/module-magento2/registration.php',
         'b4cf39431a4b949eea8aa69ebb3d39da' => __DIR__ . '/../..' . '/app/etc/NonComposerComponentRegistration.php',
     );
 
@@ -603,6 +604,7 @@ class ComposerStaticInit01b32b7fe2f89e90e3aca27be4f45154
             'Psr\\Container\\' => 14,
             'Psr\\Clock\\' => 10,
             'Psr\\Cache\\' => 10,
+            'Poptin\\Magento2\\' => 16,
             'PhpParser\\' => 10,
             'PhpCsFixer\\' => 11,
             'PhpAmqpLib\\' => 11,
@@ -1339,6 +1341,10 @@ class ComposerStaticInit01b32b7fe2f89e90e3aca27be4f45154
         'Psr\\Cache\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/cache/src',
+        ),
+        'Poptin\\Magento2\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/poptin/module-magento2',
         ),
         'PhpParser\\' => 
         array (
