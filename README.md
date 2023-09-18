@@ -39,5 +39,14 @@ NOTES: I did not know how to implement it with the links in the grey bar.
 
 ![image](https://github.com/AhmedMakhlooqDev/TestCase_Mindzer/assets/76881779/f10888c8-a713-4aa3-ad7e-62581b384d2b)
 
+# Dialog Popup:
+I did the following tutorial on this website, the feature still needs to only work on the main page.
+
+https://www.cloudways.com/blog/magento-2-modal-widget/ 
+
+I had to do some bug fixing in their code as it had lots of typos. Please revise commits for more details.
+
+## Final result: 
+
 
 #  *In any case you were not able to run the code, I will attach a video recording of the result
