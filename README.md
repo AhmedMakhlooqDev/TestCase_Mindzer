@@ -1,5 +1,5 @@
 # TestCase_Mindzer:
-#  *In any case you were not able to run the code, I will attach a video recording of the result
+#  *In any case you were not able to run the prject, I will attach a video recording of the result
 
 ## References used:
 
