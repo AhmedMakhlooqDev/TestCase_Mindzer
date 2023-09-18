@@ -56,3 +56,6 @@ I had to do some bug fixing in their code as it had lots of typos. Please revise
 ## Final result: 
 ![image](https://github.com/AhmedMakhlooqDev/TestCase_Mindzer/assets/76881779/c337e6a5-3d28-4b86-b150-9948ded89892)
 
+https://github.com/AhmedMakhlooqDev/TestCase_Mindzer/assets/76881779/22ef2ba9-2164-4a2e-8893-a60c6ecdaea0
+
+
