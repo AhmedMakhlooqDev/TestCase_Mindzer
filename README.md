@@ -29,6 +29,10 @@ Magento Installation guide with common issue that you may face
 
 https://magentip.com/install-magento-2-on-localhost-xampp-elasticsearch/#Step-1-Install-Xampp-and-Compose
 
+Tutorial for creating the top.links
+
+https://www.mageplaza.com/devdocs/how-add-top-link-magento-2.html#step-2-add-linkphp-file
+
 ##  Features:
 
 # Copyright override:
